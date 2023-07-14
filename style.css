@@ -1,0 +1,23 @@
+body{
+    background:rgb(249, 192, 249);
+}
+.box{
+    background:rgb(135, 215, 14);
+    border:8px solid black;
+    width:700px;
+    height:300px;
+    margin-top:10%;
+    
+}
+h1{
+    color:blueviolet;
+    font-size: xx-large;
+    
+}
+h2{
+    color:red;
+
+}
+h3{
+    color:blue;
+}
